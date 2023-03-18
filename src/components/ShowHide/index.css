@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.container {
+  background-color: #fc63a7;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: Roboto;
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.button {
+  background-color: #ffffff;
+  color: #fc63a7;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+.buttoncontainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.joecontainer {
+  height: 100px;
+  width: 100px;
+  background-color: #fddddb;
+}
